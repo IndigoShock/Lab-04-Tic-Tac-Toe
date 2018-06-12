@@ -8,11 +8,13 @@ namespace TicTacToe.Classes
     {
         public string Name { get; set; }
         public string Marker { get; set; }
+        public bool isTurn { get; set; }
 
-        public Players(string name, string marker)
+        public Players(string name, string marker, bool playerTurn)
         {
             Name = name;
             Marker = marker;
+            isTurn = playerTurn;
         }
     }
 }

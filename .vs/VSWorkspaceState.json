@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TicTacToe",
+    "\\TicTacToe\\TicTacToe",
+    "\\TicTacToe\\TicTacToe\\Classes",
+    "\\TicTacToe\\XUnitTestProject1"
   ],
+  "SelectedNode": "\\TicTacToe\\TicTacToe\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
